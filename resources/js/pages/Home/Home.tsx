@@ -15,7 +15,7 @@ export default function Home() {
                 }}
             >
                 <h1 style={{ color: "white", fontSize: "40px" }}>
-                    Trisha MAy Monera
+                    Cherrylou Saligumba
                 </h1>
             </div>
         </>
